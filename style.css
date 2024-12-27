@@ -1,0 +1,13 @@
+h1 {
+    font-family: "Libre Baskerville";
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.mondrian {
+    white-space: nowrap;
+}
